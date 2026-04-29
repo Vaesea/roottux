@@ -16,7 +16,19 @@ DESCRIPTION
   would look like if I continued Milestone 1. Don't expect it to be the
   best thing you've ever played.
 
-  The main difference is that Tux automatically runs now.
+  The main differences are that Tux automatically runs now, Tux has
+  unlimited lives, there's no score, and there's just 15 levels now (since
+  this is planned to be a larger project, each world will have at least 15
+  levels)
+
+  While this fangame is planned to be polished before it gets larger, It's
+  not meant to be like SuperTux Classic but in HaxeFlixel, but the concept
+  for the version after the first version will likely be a similar concept,
+  a "polished Milestone 1" sort of thing. Nolok will not be the boss of Icy
+  Island, instead, he will be the boss of the next world, Forest World.
+
+  Yes, there is planned to be a Forest World in later versions, but that's
+  not for RootTux Beginning, that's for RootTux Cycle.
 
 
 STORY
@@ -94,12 +106,6 @@ PLAYING THE GAME
 SCREEN LAYOUT
 -------------
   Work In Progress
-
-SCORING
--------
-  Work In Progress
-
-  Should I even add score?
 
 THE END
 -------
