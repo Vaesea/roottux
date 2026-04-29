@@ -67,11 +67,11 @@ DOCUMENTATION
     NEWS        - Changes since the previous versions of "RootTux"
     COPYING     - The GNU Public License, which "RootTux" is liscensed
                   under.
-    INSTALL     - Instructions on requirements, compiling and installing.
     README      - (This file.)  Game story, usage, rules and controls.
     TODO        - A wish-list for this version of "RootTux"
     LEVELDESIGN - Very useful information for those that want to design
                   levels for RootTux.
+    ChangeLog - Changes since RootTux's first version
 
 
 RUNNING THE GAME
